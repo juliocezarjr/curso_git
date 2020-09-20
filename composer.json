@@ -1,0 +1,12 @@
+{
+    "name": "juliocezarjr/buscador-cursos",
+    "description": "Buscardor de cursos na página da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Julio Barreto",
+            "email": "juliocezarjr@gmail.com"
+        }
+    ],
+    "require": {}
+}
