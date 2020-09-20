@@ -1,5 +1,5 @@
 {
-    "name": "juliocezarjr/buscador-cursos",
+    "name": "juliocezarjr/buscador-cursos-alura",
     "description": "Buscardor de cursos na página da Alura",
     "type": "library",
     "authors": [
@@ -10,3 +10,6 @@
     ],
     "require": {}
 }
+
+adicionando lista 1
+adicionando linha 2 na lista
